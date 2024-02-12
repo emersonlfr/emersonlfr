@@ -1,7 +1,7 @@
 ### Hey 👋 What's up?
 
 ## My name is Émerson Luiz ⚡
-Sobre mim:
+About me:
 - 🎓 Bachelor's degree in Computer Science at the University Center of the Guaxupé Educational Foundation - Unifeg
 
 - 🌱 I’m currently improving to be a developer FULL STACK
